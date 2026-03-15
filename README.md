@@ -22,6 +22,8 @@ With the below setup, you get immediate access to 2,000+ chains and 4,000+ publi
 
 Using `npx`:
 
+#test benchmark improvement
+
 ```bash
 npx start-erpc
 ```
